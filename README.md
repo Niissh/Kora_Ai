@@ -1,12 +1,8 @@
-# Hack Interview
+# Kora_Ai
 
 ## Overview
 
-Hack Interview application is a tool designed to assist in job interviews using the power of Generative AI. Combining voice recognition and text generation technologies, this application transcribes interview questions and generates responses in real-time, empowering users to handle interviews with confidence and ease.
-
-## ⚠️ Disclaimer ⚠️
-
-> This application is a proof of concept and should be used **ethically** and **responsibly**. It is not intended to deceive or mislead during interviews. The primary purpose is to demonstrate the capabilities of AI in assisting with real-time question understanding and response generation. Users should use this tool **only** for practice and learning!
+Kora_Ai application is a tool designed to assist in job interviews using the power of Generative AI. Combining voice recognition and text generation technologies, this application transcribes interview questions and generates responses in real-time, empowering users to handle interviews with confidence and ease.
 
 ## Features
 
@@ -49,18 +45,6 @@ Hack Interview application is a tool designed to assist in job interviews using 
 - **Recording**: Press `R` or click the big red toggle button to start/stop audio recording. It will create a `recording.wav` file in the project directory.
 - **Transcription and Response Generation**: Press `A` or click the 'Analyze' button to transcribe the recorded audio and generate answers.
 - **Viewing Responses**: Responses are displayed in the GUI, offering both a quick and detailed answer.
-
-## Contributions
-
-Contributions are very welcome. Please submit a pull request or create an issue.
-
-## Support
-
-Thank you for using this project! If you find it helpful and would like to support my work, kindly consider buying me a coffee. Your support is greatly appreciated!
-
-<a href="https://www.buymeacoffee.com/ivnvxd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
-And do not forget to give the project a star if you like it! :star:
 
 ## Acknowledgments
 
